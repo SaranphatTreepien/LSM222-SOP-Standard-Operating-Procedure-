@@ -17,5 +17,6 @@
 
 
 <footer style="text-align: center; padding: 15px 0; background-color: #f0f0f0; color: #555; font-family: Arial, sans-serif; margin-top: 40px;">
+
   Notes compiled by Saranphat Treepien
 </footer>
